@@ -1,7 +1,7 @@
 # Project-023-Blog-Website-Django-02
 A blog website comprises Bootstrap, Django and SQLite.
 
-## Intruction of Django Blog
+## Intructions of Django Blog
 1. Create environment and activate it
 2. Install django
 3. Create requirement.txt, .gitignore and .env files
